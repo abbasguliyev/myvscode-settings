@@ -1,0 +1,19 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    },
+    "workbench.colorTheme": "React Theme",
+    "files.autoSave": "afterDelay",
+    "editor.cursorBlinking": "expand",
+    "editor.fontFamily": "Jetbrains Mono, 'Droid Sans Mono', 'monospace', monospace",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.smoothScrolling": true,
+    "editor.mouseWheelZoom": true,
+    "workbench.sideBar.location": "right",
+
+    // Here you can add custom styles and scripts to modify VS Code further
+    "vscode_custom_css.imports": [
+        "file:///usr/share/code/custom-vscode.css",
+    ],
+}
